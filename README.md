@@ -16,7 +16,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Velvet-Pour](https://github.com/ArnabSaga/Velvet-Pour)**
+- 🔭 I’m currently working on **[MeetAi](https://github.com/ArnabSaga/MeetAi)**
 - 🌱 Learning **Three.js**
 - 💬 Ask me about **React, GSAP, Node**
 - 📫 Reach me at **arnabdey15091@gmail.com**
