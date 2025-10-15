@@ -18,7 +18,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **[MeetAi](https://github.com/ArnabSaga/MeetAi)**
 - 🌱 Learning **Three.js**
-- 💬 Ask me about **React, GSAP, Node**
+- 💬 Ask me about **React, GSAP, Express, Next**
 - 📫 Reach me at **arnabdey15091@gmail.com**
 - ⚡ Fun fact: **I love to sleep**
 
