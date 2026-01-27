@@ -1,32 +1,40 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I'm <span style="color:#ff7b00;">Achyuta Arnab Dey</span></h1>
+<h1 align="center">
+  Hi, I’m <span style="color:#ff7b00;">Achyuta Arnab Dey</span> 👋
+</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer • Creative Technologist • MERN & Next.js Developer
+  Full Stack Developer • Creative Technologist • MERN & Next.js Specialist
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Next.js+%2B+MERN+Expert;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FF7B00&center=true&vCenter=true&width=620&lines=Building+Scalable+Web+Applications;Designing+Clean+and+Performant+Systems;Next.js+%7C+MERN+%7C+Modern+Web;Always+Learning.+Always+Shipping." />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I’m a passionate **Full Stack Developer** who loves crafting scalable, elegant, and modern web apps.  
-My main stack includes **MERN + Next.js**, focusing on high-performance architectures and immersive user experiences.
+I’m a **Full Stack Developer** focused on building **scalable, maintainable, and high-performance web applications** using modern JavaScript ecosystems.
 
-I enjoy shaping products end-to-end —  
-**from the database layer → API → UI → deployment**.
+My core expertise lies in **MERN + Next.js**, where I design systems that balance:
+- clean architecture  
+- real-world performance  
+- and great user experience  
+
+I enjoy owning products **end-to-end** —  
+from **database design → API architecture → UI engineering → deployment & optimization**.
+
+> **I don’t just write code — I design systems that scale and last.**
 
 📧 **Email:** [arnabdey15091@gmail.com](mailto:arnabdey15091@gmail.com)  
 💬 **Discord:** `rz0263`  
-📁 **Portfolio:** Coming soon  
-📄 **Resume:** Coming soon  
+📁 **Portfolio:** _Coming soon_  
+📄 **Resume:** _Coming soon_
 
 ---
 
@@ -36,11 +44,11 @@ I enjoy shaping products end-to-end —
   <img src="https://github-profile-trophy.vercel.app/?username=arnabsaga&theme=onedark&margin-w=15&no-frame=true" />
 </p>
 
-| Achievement | Status | Meaning |
+| Achievement | Status | Description |
 |:--|:--|:--|
-| ⚡ Quickdraw | ✔️ Unlocked | Closed a PR within 5 minutes |
-| 🦈 Pull Shark (x2) | 🥉 Bronze | Multiple PRs merged |
-| 🤖 YOLO | ✔️ Unlocked | Merged PR without review |
+| ⚡ Quickdraw | ✔️ | PR merged within minutes |
+| 🦈 Pull Shark (x2) | 🥉 | Multiple PRs successfully merged |
+| 🤖 YOLO | ✔️ | Confident merge without review |
 
 ---
 
@@ -52,15 +60,15 @@ I enjoy shaping products end-to-end —
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Next.js 15 + Server Actions  
-- Three.js (3D web interfaces)  
-- Serverless / Edge deployments  
-- Scalable architecture patterns  
+- Next.js 15 & Server Actions  
+- Three.js & interactive 3D experiences  
+- Serverless & edge-first deployments  
+- Scalable backend & system design patterns  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160" />
 </p>
 
 ---
@@ -97,8 +105,10 @@ I enjoy shaping products end-to-end —
 
 ---
 
-<h3 align="center">💬 “Dream in code. Build with passion. Deliver with impact.”</h3>
+<h3 align="center">
+  “Build thoughtfully. Scale intentionally. Ship with confidence.”
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF7B00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Creative+Problem+Solver;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=FF7B00&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;System+Thinker;Open+Source+Contributor;Continuous+Learner" />
 </p>
