@@ -1,19 +1,3 @@
-<h1 align="center">
-  Achyuta Arnab Dey
-</h1>
-
-<h3 align="center">
-  Full Stack Engineer • System Designer • Performance Architect
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FF7B00&center=true&vCenter=true&width=620&lines=Building+Scalable+Web+Applications;Designing+Clean+and+Performant+Systems;Next.js+%7C+MERN+%7C+Modern+Web;Always+Learning.+Always+Shipping." />
-</p>
-
 <!-- ===================== -->
 <!--      HERO CORE       -->
 <!-- ===================== -->
