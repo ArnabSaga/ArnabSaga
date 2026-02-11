@@ -34,7 +34,7 @@ from **database design → API architecture → UI engineering → deployment & 
 📧 **Email:** [arnabdey15091@gmail.com](mailto:arnabdey15091@gmail.com)  
 💬 **Discord:** `rz0263`  
 📁 **Portfolio:** _Coming soon_  
-📄 **Resume:** _Coming soon_
+📄 **Resume:** Under Cosmic Construction 🌌
 
 ---
 
