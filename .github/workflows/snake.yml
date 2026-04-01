@@ -1,0 +1,54 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake svg
+        uses: Platane/snk/svg-only@v3.4.1
+        with:
+          github_user_name: ArnabSaga
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-custom.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-grey.svg?palette=github-light&color_snake=grey
+
+      - name: Verify generated files
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "dist directory not found"
+            exit 1
+          fi
+          ls -la dist/
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: 'Update snake animation'
+          allow_empty_commit: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
