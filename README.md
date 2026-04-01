@@ -127,7 +127,7 @@ I am deeply invested in mastering the foundations of modern software engineering
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/ArnabSaga/ArnabSaga/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
