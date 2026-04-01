@@ -1,160 +1,142 @@
-<!-- ===================== -->
-<!--      HERO CORE       -->
-<!-- ===================== -->
-
-<h1 align="center">
-  Achyuta Arnab Dey
-</h1>
-
-<h3 align="center">
-  Full Stack Engineer • System Designer • Performance Architect
-</h3>
+<!-- ===================================================== -->
+<!--                    ACHYUTA ARNAB DEY                  -->
+<!-- ===================================================== -->
 
 <p align="center">
-  Engineering scalable backend systems.
-  Designing high-performance frontend architectures.
-  Shipping production-ready applications.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:7c3aed&text=Achyuta%20Arnab%20Dey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20System%20Designer%20•%20Performance%20Architect&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Building+scalable+backend+systems;Designing+high-performance+frontend+architectures;Shipping+production-ready+applications;Focused+on+clean+architecture+and+real-world+engineering;Performance+first.+Always." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=F7A41D&center=true&vCenter=true&width=800&lines=Scalable+System+Architecture;Production-Grade+Next.js+Applications;Clean+API+Design+%26+Database+Modeling;End-to-End+Product+Engineering;Performance+First.+Always." />
+  <a href="mailto:arnabdey15091@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arnabdey15091%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/achyuta1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Achyuta%20Arnab%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/arnabsaga">
+    <img src="https://img.shields.io/badge/GitHub-arnabsaga-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arnabsaga&style=for-the-badge&color=7c3aed" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Engineering Profile
 
-I’m a Full Stack Engineer in progress — deeply focused on mastering the foundations of scalable web systems.
+I am **Achyuta Arnab Dey** — a builder focused on creating software that is not only functional, but structurally strong, scalable, and production-ready.
 
-My work centers around the **MERN ecosystem and Next.js**, where I’m actively building real-world projects to strengthen my understanding of:
+I approach development with an engineering mindset:
 
-- backend architecture
-- API design principles
-- database modeling
-- authentication & authorization
-- performance-aware frontend engineering
+- architect before scaling
+- design before abstraction
+- optimize before complexity
+- ship with maintainability in mind
 
-I approach every project as a learning opportunity — not just to make it work, but to understand _why_ it works.
+My core interest is in building complete systems across the full stack:
 
-I enjoy building applications end-to-end:
+**Database Design → API Architecture → Frontend Systems → Deployment**
 
-**Database schema → API layer → Frontend architecture → Deployment**
-
-Right now, my goal is simple:
-
-> Build consistently. Learn deeply. Improve deliberately.
-
-I may still be growing, but I’m serious about engineering.
+I am deeply invested in mastering the foundations of modern software engineering through real-world projects, deliberate practice, and performance-aware development.
 
 ---
 
-- 📧 **Email:** [arnabdey15091@gmail.com](mailto:arnabdey15091@gmail.com)
-- 💬 **Discord:** `rz0263`
-- 📁 **Portfolio:** Coming Soon
+## 🧠 What Defines My Work
+
+- Scalable backend architecture
+- Clean REST API design
+- Secure authentication and authorization
+- Database modeling with strong integrity
+- Type-safe frontend systems
+- Performance-first UI engineering
+- Production-ready deployment workflows
+
+> I do not want to just build features.
+> I want to build systems that survive scale.
 
 ---
 
-# 🧠 Engineering Identity
+## 🏗️ System Design Mindset
 
-I build systems that scale.
+### Backend
+- Modular service-oriented structure
+- RBAC-based access control
+- Prisma-driven schema design
+- Error handling with consistency
+- Query optimization and maintainability
+- Clean separation of concerns
 
-Not hobby projects.
-Not tutorial clones.
-Not fragile demos.
+### Frontend
+- Server-first rendering mindset
+- Minimal unnecessary hydration
+- Reusable feature-driven structure
+- Strong TypeScript discipline
+- Smooth, high-performance user experiences
 
-I focus on:
-
-- Designing clean backend architectures
-- Structuring maintainable monorepos
-- Type-safe API layers
-- Optimized rendering strategies
-- Production deployment pipelines
-
-I treat every project as if it will serve **10,000+ concurrent users**.
-
-> Code is temporary. Architecture is leverage.
-
----
-
-# 🏗 System Design Mindset
-
-### 🔹 Backend Philosophy
-
-- Modular service structure
-- RBAC-based authorization
-- RESTful API standardization
-- Prisma-driven schema integrity
-- Optimized query patterns
-- Clean error handling layers
-
-### 🔹 Frontend Philosophy
-
-- Server-first data strategy
-- Hydration optimization
-- Minimal client bundle
-- Edge-friendly architecture
-- Performance budgets enforced
-
-### 🔹 Deployment Standards
-
+### Production Standards
 - Environment-safe configuration
-- Production-ready build pipelines
-- Secure authentication flows
-- Structured logging
+- Secure auth flow implementation
+- Deployment-aware application design
+- Structured logging and scalable organization
 
 ---
 
-# 🧬 Core Stack
+## 🧬 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,redux,threejs,firebase,git,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,redux,firebase,git,github,vercel&perline=8" />
 </p>
 
 ---
 
-# 📊 Engineering Metrics
+## 🚀 Current Focus
+
+- Advanced system design
+- Scalable backend engineering
+- Modern Next.js application architecture
+- Authentication and permission systems
+- Query performance and rendering optimization
+- Building production-grade full stack products
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnabsaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabsaga&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arnabsaga&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnabsaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabsaga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-# 🔍 Current Deep Work
-
-- Advanced System Design
-- Scalable backend patterns
-- Edge-first infrastructure
-- Caching & performance engineering
-- Distributed architecture concepts
-
 ---
 
-# 🌐 Professional Links
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <a href="mailto:arnabdey15091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/achyuta1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/arnabsaga">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabsaga&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-<h3 align="center">
-  Architect with intention. Engineer with discipline. Ship with confidence.
-</h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation" />
+</p>
+
+---
+
+## 🎯 Engineering Philosophy
+
+```txt
+Build consistently.
+Learn deeply.
+Design intentionally.
+Optimize relentlessly.
+Ship confidently.
