@@ -11,19 +11,24 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arnabdey15091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-arnabdey15091%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/achyuta1/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/achyuta1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Achyuta%20Arnab%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://achyutaarnabdey.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/arnabsaga">
-    <img src="https://img.shields.io/badge/GitHub-arnabsaga-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1lx0CPkwne9NsgThp14uKjaq8T56UJM9q/view?usp=sharing" target="_blank">
+   <img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
+  <a href="mailto:arnabdey15091@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnabsaga&style=for-the-badge&color=7c3aed" />
 </p>
 
----
 
 ## ⚡ Engineering Profile
 
@@ -31,14 +36,18 @@ I am **Achyuta Arnab Dey** — a builder focused on creating software that is no
 
 I approach development with an engineering mindset:
 
-- architect before scaling
-- design before abstraction
-- optimize before complexity
-- ship with maintainability in mind
+```
+Build consistently.
+Learn deeply.
+Design intentionally.
+Optimize relentlessly.
+Ship confidently.
+ ```
 
-My core interest is in building complete systems across the full stack:
-
-**Database Design → API Architecture → Frontend Systems → Deployment**
+- **Architecture before scaling** — Design strong foundations that survive complexity
+- **Type safety as standard** — Leverage TypeScript for predictable, maintainable code
+- **Performance first** — Every feature must scale without rearchitecture
+- **Production-ready always** — Code ships with proper error handling, logging, and monitoring
 
 I am deeply invested in mastering the foundations of modern software engineering through real-world projects, deliberate practice, and performance-aware development.
 
@@ -59,28 +68,30 @@ I am deeply invested in mastering the foundations of modern software engineering
 
 ---
 
-## 🏗️ System Design Mindset
+## 💼 Core Competencies
 
-### Backend
-- Modular service-oriented structure
-- RBAC-based access control
-- Prisma-driven schema design
-- Error handling with consistency
-- Query optimization and maintainability
-- Clean separation of concerns
+### **Backend Architecture**
+- Modular service-oriented design with clean separation of concerns
+- RESTful API design with OpenAPI documentation
+- RBAC-based authentication and authorization systems
+- Database design (PostgreSQL, MongoDB) with Prisma ORM
+- Query optimization and N+1 prevention strategies
+- Structured error handling and observability
 
-### Frontend
-- Server-first rendering mindset
-- Minimal unnecessary hydration
-- Reusable feature-driven structure
-- Strong TypeScript discipline
-- Smooth, high-performance user experiences
+### **Frontend Engineering**
+- Server-first rendering (Next.js App Router)
+- Type-safe React with advanced patterns
+- Performance optimization (code splitting, lazy loading, hydration control)
+- State management (Redux, Zustand, Context API)
+- Accessible component systems (WCAG AA compliance)
+- Real-time UI updates and progressive enhancement
 
-### Production Standards
-- Environment-safe configuration
-- Secure auth flow implementation
-- Deployment-aware application design
-- Structured logging and scalable organization
+### **Full Stack Systems**
+- End-to-end authentication flows (JWT, OAuth, session management)
+- Real-time data synchronization
+- File handling and processing pipelines
+- Deployment automation (CI/CD, containerization)
+- Production monitoring and error tracking
 
 ---
 
@@ -91,15 +102,34 @@ I am deeply invested in mastering the foundations of modern software engineering
 </p>
 
 ---
+## 🧠 Development Approach
 
-## 🚀 Current Focus
+### **Design Phase**
+1. **Understand** the problem and constraints
+2. **Sketch** the architecture (data model, service boundaries)
+3. **Define** API contracts (OpenAPI specifications)
+4. **Plan** for scale (caching, pagination, async processing)
 
-- Advanced system design
-- Scalable backend engineering
-- Modern Next.js application architecture
-- Authentication and permission systems
-- Query performance and rendering optimization
-- Building production-grade full stack products
+### **Implementation Phase**
+1. **Test-driven development** for critical paths
+2. **Type-safe code** (TypeScript strict mode)
+3. **Modular components** with clear responsibilities
+4. **Progressive enhancement** (graceful degradation)
+
+### **Shipping Phase**
+1. **Comprehensive error handling** and logging
+2. **Performance benchmarking** before production
+3. **Staged rollouts** with continuous monitoring
+4. **Documentation** for long-term maintainability
+
+---
+
+## 📚 Currently Learning
+
+- **Advanced System Design:** Distributed systems, databases at scale, consistency patterns
+- **Cloud Architecture:** AWS/GCP design patterns, infrastructure optimization
+- **Performance Engineering:** Machine learning integration patterns, Rust for critical components
+
 
 ---
 
@@ -130,13 +160,4 @@ I am deeply invested in mastering the foundations of modern software engineering
   <img src="https://raw.githubusercontent.com/ArnabSaga/ArnabSaga/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-## 🎯 Engineering Philosophy
-
-```txt
-Build consistently.
-Learn deeply.
-Design intentionally.
-Optimize relentlessly.
-Ship confidently.
