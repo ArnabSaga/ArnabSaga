@@ -17,7 +17,7 @@
   <a href="https://achyutaarnabdey.vercel.app/" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1lx0CPkwne9NsgThp14uKjaq8T56UJM9q/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1DXPHzJPxcWU0pD_o8vN6IqQBXL-lVzt3/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="mailto:arnabdey15091@gmail.com" target="_blank">
